@@ -1,5 +1,6 @@
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <br>
+<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
