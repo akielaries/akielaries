@@ -5,12 +5,11 @@
 | <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akiel's github stats" /></a> | <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akielaries&hide=java,javascript,html&langs_count=10&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Akiel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akielaries)](https://github.com/akielaries/github-readme-stats)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/assembly/assembly.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"></code>
 
 
 - 🔭 I’m currently working on ...
