@@ -1,5 +1,9 @@
-
+<!---
 [![Akiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/akielaries/github-readme-stats)
+-->
+
+| <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akiel's github stats" /></a> | <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akielaries&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
