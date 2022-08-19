@@ -1,6 +1,11 @@
 
+<!--
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> <br>
 <br>
+-->
+
+[![Akiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
