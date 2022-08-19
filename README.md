@@ -8,7 +8,7 @@
 <code><img height="30" alt="assembly" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"></code>
 <code><img height="30" alt="mqtt" src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png"></code>
 <code><img height="30" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" width="30" alt="influx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Influxdb_logo.svg/512px-Influxdb_logo.svg.png?20170116055516"></code>
+<code><img height="30"alt="influx" src="https://assets.zabbix.com/img/brands/influxdb.svg"></code>
 <code><img height="30" alt="mongo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" alt="" src=""></code>
 
