@@ -16,13 +16,19 @@
 - 🔭 Currently working on :
     -
 - 🌱 Currently learning :
-- 👯 I'm looking to collaborate on :
+    - Operating Systems and brushing up on my assembly knowledge.
+    - Always practicing my DSA skills. [See some of my practice here.](https://github.com/akielaries/DSA)
+    - Fall coursework includes:
+        - Artificial Intelligence
+        - S
+- 👯 I'm looking to collaborate on : 
+    - Open Source efforts and other interesting projects related
+    to my interests or previous experience.
 - 🤔 I’m looking for help with :
     - Any of my repos that you think could use some improvement or 
     have any issues please make a pull request or contact me.
 - 💬 Ask me about :
-    - Anything related to the details in my website [(perhaps all you need to know)](https://akielaries.github.io/).
-
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+    - Anything related to the details in my website ([lots of depth])(https://akielaries.github.io/).
+- 📫 How to reach me : 
+    - [akiel@akiel.org](mailto:akiel@akiel.org)
 
