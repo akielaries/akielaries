@@ -9,7 +9,6 @@
 <code><img height="20" alt="mqtt" src="https://raw.githubusercontent.com/github/explore/6afe2c43768e7ef1e252839a1f1c12b730faa007/topics/mqtt/mqtt.png"></code>
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" alt="influx" src="https://assets.zabbix.com/img/brands/influxdb.svg"></code>
-<code><img height="20" alt="mongo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
 - 👯 I'm looking to collaborate on : 
