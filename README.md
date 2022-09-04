@@ -13,7 +13,7 @@
 
 - 👯 I'm looking to collaborate on : 
     - Open Source efforts and other interesting projects related
-    to my interests or previous experience.
+    to my interests or previous experience. Big or small I am interested!
 - 🤔 I’m looking for help with :
     - Any of my repos that you think could use some improvement or 
     have any issues please make a pull request or contact me.
