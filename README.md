@@ -14,7 +14,7 @@
     - Open Source efforts and other interesting projects related
     to my interests or previous experience. Big or small I am interested!
 - 💬 Ask me about :
-    - Anything related to the details in my website [lots of depth](https://akielaries.github.io/).
+    - Anything related to the details in [my website](https://akielaries.github.io/).
 - 📫 How to reach me : 
     - [akiel@akiel.org](mailto:akiel@akiel.org)
     
