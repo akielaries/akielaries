@@ -11,7 +11,7 @@
 <code><img height="20" alt="influx" src="https://assets.zabbix.com/img/brands/influxdb.svg"></code>
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 * I'm looking to collaborate on : 
-    - Any projects relate to my interests or previous experience. Big or 
+    - Any projects related to my interests or previous experience. Big or 
     small I am interested!
 
 * Ask me about :
