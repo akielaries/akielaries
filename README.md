@@ -1,5 +1,5 @@
 
-| <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akiel's github stats" /></a> | <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akielaries&hide=java,javascript,css,scss&exclude_repo=CS212-web-programming&count_private=true&langs_count=10&layout=compact&theme=buefy" /></a> |
+| <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akielaries&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akiel's github stats" /></a> | <a href="https://github.com/akielaries/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akielaries&exclude_repo=CS212-web-programming&count_private=true&langs_count=10&layout=compact&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 <code><img height="30" alt="c" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
